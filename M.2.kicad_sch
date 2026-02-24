@@ -1849,7 +1849,7 @@
 		)
 		(uuid "9578791c-d1b6-4aeb-a1ca-23a5c0f3a4b5")
 	)
-	(hierarchical_label "USB_2_P4+"
+	(hierarchical_label "USB_2_P1+"
 		(shape bidirectional)
 		(at 54.61 77.47 180)
 		(effects
